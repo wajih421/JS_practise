@@ -263,3 +263,14 @@ console.log("Missing value:", user?.address?.city);
 let username = null;
 
 console.log("Final user:", username ?? "Anonymous");
+
+
+console.log("Type of null:", typeof null);
+
+console.log("Is null equal to undefined?", null == undefined);
+console.log("Is null strictly equal to undefined?", null === undefined);
+
+
+
+
+console.log("GitHub test by Wajih");
